@@ -1,2 +1,1 @@
-# quocmanh
-project web
+# Huong dan Git co ban
